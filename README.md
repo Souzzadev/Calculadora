@@ -7,7 +7,7 @@
 - [📌 Project Status](#-project-status)  
 - [✨ Features and Demo](#-features-and-demo)   
 - [⚙️ Technologies Used](#️-technologies-used)  
-- [👩‍💻 Developers](#-developers)  
+- [👩‍💻 Developer](#-developer)  
 
 ---
 
