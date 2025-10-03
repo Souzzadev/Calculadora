@@ -34,6 +34,10 @@ This project demonstrates **clean code practices, modularity, and reusability** 
 
 ---
 
+ ## ✨ image of project
+ 
+<img width="1911" height="905" alt="image" src="https://github.com/user-attachments/assets/aca228ab-1f59-4f41-841a-3bca8dc36a8b" />
+
 ## ✨ Technologies Used
 - Html
 - Css
